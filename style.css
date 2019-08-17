@@ -6,7 +6,10 @@ body {
     font-size: 18px;
     }
 
-h1 {
-    background-color: white;
+.header, .nav, .secbox, #p, .aside, .footer {
+    background: #ebebeb;
 }
-
+#article {
+    background: #777;
+    color: #ebebeb;
+}
