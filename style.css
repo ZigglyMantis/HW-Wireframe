@@ -4,12 +4,82 @@ body {
     color: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    margin: auto;
     }
 
-.header, .nav, .secbox, #p, .aside, .footer {
+.header {
     background: #ebebeb;
+    padding: 2px;
+    margin: 7px auto;
+    font-size: 18px;
 }
+
+.nav {
+    background: #ebebeb;
+    padding: 2px;
+    margin: 7px auto 7px auto;
+    font-size: 18px;
+}
+
+.secbox {
+    background: #ebebeb;
+    width: 495px;
+    height: 250px;
+    float: left;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.aside {
+    background: #ebebeb;
+    float: right;
+    text-align: center;
+    margin: 5px auto;
+    font-size: 18px;
+    padding: 82px 205px;
+}
+
 #article {
     background: #777;
     color: #ebebeb;
+    margin: 10px;
+    width: 90%;
+    height: 150px;
+    font-size: 18px;
+    padding: 5px;
+}
+
+#h123 {
+    margin: 5px auto;
+    width: 80%;
+    height: 50px;
+    padding: 2px;
+    text-align: center;
+    font-size: 18px;
+    background: #ebebeb;
+    color: #777;
+    margin: 20px auto;
+}
+
+#p {
+    padding: 2px;
+    margin: 20px auto;
+    width: 80%;
+    font-size: 18px;
+    color: #777;
+    background: #ebebeb;
+
+}
+
+.footer {
+    background: #ebebeb;
+    margin: 10px auto;
+    clear: both;
+    padding: 2px;
+    font-size: 18px;
+}
+
+.lower {
+    margin: 10px auto;
 }
