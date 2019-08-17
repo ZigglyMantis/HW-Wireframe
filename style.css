@@ -1,10 +1,12 @@
-<head>
-    <style>
-
-    body {
-        background: "#777";
-        font-family: "Arial, Helvetica Neue, Helvetica, sans-serif";
-        color: #777;
-        width: 960px;
-        font-size: 18px;
+body {
+    background-color: #777;
+    font-family: "Arial, Helvetica Neue, Helvetica, sans-serif";
+    color: #777;
+    width: 960px;
+    font-size: 18px;
     }
+
+h1 {
+    background-color: white;
+}
+
